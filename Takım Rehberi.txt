@@ -1,0 +1,10 @@
+Proje Ekip Lideri
+	- 170541041 / İklima KAVAK / iklimakavak@gmail.com 
+	  Görevi: Şifreleme - arayüz ve kodlama / Proje birleştirme ve yürütme
+Proje Ekip Çalışanları
+	- 170541023 / Kardelen AKTOPRAK / aktoprakardelen98@gmail.com  
+	  Görevi: Kullanıcı girişi ve güvenlik doğrulama kodu - arayüz ve kodlama / Proje dökümanlarını hazırlama
+	- 170541054 / Fatma Aleyna GÜRSU / aleynagursu@icloud.com  
+	  Görevi: Şifreli resmi başka kullanıcıya gönderme - arayüz ve kodlama
+	- 170541019 / Zeynep ÖRS / zzeynepors.147@gmail.com  
+	  Görevi: Şifreli resmi başka kullanıcıya gönderme - veritabanı
