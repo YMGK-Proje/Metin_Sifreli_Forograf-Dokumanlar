@@ -1,2 +1,2 @@
 # Metin_Sifreli_Forograf-Dokumanlar
-Bu depo projeye ait takım rehberi, genel bakış, kullanıcı klavuzu ve prje değerlendirme belgesini içerir.
+Bu depo projeye ait takım rehberi, zaman çizelgesi ve durum tespiti, genel bakış, kullanıcı klavuzu ve proje değerlendirme belgesini içerir.
